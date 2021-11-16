@@ -5,7 +5,7 @@
 
 ### Fazer um sistema em Java, que servirá como um cadastro de clientes e fornecedores. As entidades "cliente e fornecedor" seguem o seguinte padrão:
 
-#### Cliente
+#### Cliente:
 * Código;
 * Nome;
 * Idade;
@@ -14,8 +14,8 @@
 * Endereço (Deve conter rua, bairro, numero, complemento e CEP);
 * Data de nascimento.
 
-#### Fornecedor
-* NPJ;
+#### Fornecedor:
+* CNPJ;
 * Nome;
 * Nome fantasia;
 * Data de fundação;
@@ -23,7 +23,7 @@
 * E-mail;
 * Tipo de serviço.
 
-#### Produto
+#### Produto:
 * Nome;
 *	Tipo;
 * Quantidade.
