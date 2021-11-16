@@ -42,12 +42,12 @@
 * Inserir fornecedor (o fornecedor só poderá ser inserido se não existir nenhum fornecedor com o mesmo CNPJ na lista);
 * Remover fornecedor pelo CNPJ;
 * Pesquisar fornecedor por tipo de serviço prestado;
-* Pesquisar fornecedor por cep (Que deve retornar todos os fornecedores localizados no cep informado).
+* Pesquisar fornecedor por CEP (Que deve retornar todos os fornecedores localizados no CEP informado).
 
-### Toda vez que o usuário concluir uma operação, ou seja, executar alguma das opções acima, ele deve retornar pro menu principal para escolher uma outra opção.
+### Toda vez que o usuário concluir uma operação, ou seja, executar alguma das opções acima, ele deve retornar para o menu principal para escolher uma outra opção.
 
 ## Cadastro de produto
-### Implemente o método cadastrarProduto. Um produto só poderá ser cadastrado caso não exista um produto com o mesmo nome e tipo na lista, e caso a lista também não esteja cheia. Caso já exista um produto com o mesmo nome na lista, incremente a quantidade. Caso essa quantidade seja maior que 1000, o produto não poderá ser cadastrado. O método retornará um booleano informando se o produto foi cadastrado com sucesso ou não.
+### Implemente o método cadastrarProduto. Um produto só poderá ser cadastrado caso não exista um produto com o mesmo nome e tipo na lista e caso a lista também não esteja cheia. Caso já exista um produto com o mesmo nome na lista, incremente a quantidade. Caso essa quantidade seja maior que 1000, o produto não poderá ser cadastrado. O método retornará um booleano informando se foi cadastrado com sucesso ou não.
 
 ## Observações: 
 
@@ -55,4 +55,3 @@
 * Cliente e Fornecedor devem ter seus próprios repositórios;
 * Os repositórios devem ser singleton;
 * Todas as classes modelo devem ter getters e setters.
-
