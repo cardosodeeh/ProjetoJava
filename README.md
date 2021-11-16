@@ -1,7 +1,7 @@
 # Projeto Java
-### Projeto criado para exercer os aprendizados adiquiridos com a trilha de estudos da Alura
+### Projeto criado para exercer os aprendizados adquiridos com a trilha de estudos da Alura.
 
-## Obejetivo
+## Objetivo
 
 ### Faça um sistema em Java servirá como um cadastro de clientes e fornecedores. As entidades clientes e fornecedor seguem o seguinte padrão: 
 
