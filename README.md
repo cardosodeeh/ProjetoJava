@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-### Fazer um sistema em Java servirá como um cadastro de clientes e fornecedores. As entidades clientes e fornecedor seguem o seguinte padrão: 
+### Fazer um sistema em Java, que servirá como um cadastro de clientes e fornecedores. As entidades "cliente e fornecedor" seguem o seguinte padrão:
 
 #### Cliente
 * Código;
