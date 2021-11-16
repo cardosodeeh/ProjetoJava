@@ -9,9 +9,9 @@
 * Código;
 * Nome;
 * Idade;
-* Email;
+* E-mail;
 * CPF;
-* Endereço (Deve conter rua, bairro, numero, complemento e CEP);
+* Endereço (Deve conter rua, bairro, nÚmero, complemento e CEP);
 * Data de nascimento.
 
 #### Fornecedor:
@@ -19,7 +19,7 @@
 * Nome;
 * Nome fantasia;
 * Data de fundação;
-* Endereço (Deve conter rua, bairro, numero, complemento e CEP);
+* Endereço (Deve conter rua, bairro, número, complemento e CEP);
 * E-mail;
 * Tipo de serviço.
 
@@ -28,7 +28,7 @@
 *	Tipo;
 * Quantidade.
 
-### O sistema deverá prover um menu principal, onde o usuário escolhe se quer usar o cadastro de cliente ou de fornecedor. Além dessas opções, deve existir uma opção para sair do sistema. 
+### O sistema deverá prover um menu principal, no qual o usuário escolhe se quer usar o cadastro de cliente ou de fornecedor. Além dessas opções, deve existir uma opção para sair do sistema. 
 
 ### O cadastro de cliente deve prover as seguintes funcionalidades:
 * Inserir Cliente (o cliente só poderá ser inserido se não existir nenhum cliente com o mesmo  CPF na lista);
